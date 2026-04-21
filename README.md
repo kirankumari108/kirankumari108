@@ -1,6 +1,6 @@
 ![logo](https://github.com/kirankumari108/kirankumari108/blob/main/baner.jpeg)
 <h1 align="center">Hi 👋, I'm kiran kumari</h1>
-<h3 align="center">Aspiring Web Developer | UI Designer</h3>
+<h3 align="center">Aspiring Web Developer</h3>
 
 <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" align="right"  width="400">
 
